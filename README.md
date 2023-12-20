@@ -5,7 +5,7 @@ This is a simple project that showcases building circuit for regex matching base
 ### Requirements
 
 - rustc 1.68.0-nightly (0468a00ae 2022-12-17)
-- • cargo 1.68.0-nightly (cc0a32087 2022-12-14)
+- cargo 1.68.0-nightly (cc0a32087 2022-12-14)
 
 ### Run the Example Project
 
