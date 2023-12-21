@@ -1,6 +1,6 @@
 # halo2-regex Example
 
-This is a simple project that showcases building circuit for regex matching based on [halo2-regex](https://github.com/zkemail/halo2-regex)
+This is a simple project that showcases building circuit for regex matching based on [halo2-regex](https://github.com/zkemail/halo2-regex)The project built [zcash/halo2](https://github.com/zcash/halo2) would be uploaded this Friday, which has some incorrect commit issues now. [Here](https://equal-marsupial-e8d.notion.site/Task-Report-4809cb91b73a4ba998d45004848042f0) is the report for the repo.
 
 ### Requirements
 
